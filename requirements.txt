@@ -1,0 +1,6 @@
+streamlit==1.32.2
+moviepy==1.0.3
+openai==1.14.2
+elevenlabs==1.0.4
+requests==2.31.0
+python-dotenv==1.0.1
